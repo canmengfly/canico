@@ -1,4 +1,4 @@
-![](https://ask.qcloudimg.com/draft/1000046/cai4ywm3js.png)
+![](https://ask.qcloudimg.com/draft/1000046/ytga2y857g.png)
 
 
 
@@ -31,4 +31,5 @@
 
 2018.11.6：初始版本 图标数 327个
 
-### 
+2018.11.13：新增 xcx，xcx-i 图标ICO
+
