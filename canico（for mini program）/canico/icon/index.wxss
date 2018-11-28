@@ -1,19 +1,20 @@
 @font-face{
   font-style:normal;
   font-weight:400;
-  font-family:vant-icon;
+  font-family:can-icon;
   src:url(https://d.canmeng.net/css/fonts/Can-ico.ttf?84g13y) format('truetype')}
   .cd{
     position:relative;display:inline-block;
-    font:normal normal normal 14px/1 vant-icon;
+    font:normal normal normal 14px/1 can-icon;
     font-size:inherit;
-    text-rendering:auto}.van-icon__info{color:#fff;left:100%;
+    text-rendering:auto}
+    .can-icon__info{
+    color:#fff;left:100%;
     top:-.5em;font-size:.6em;padding:0 .25em;text-align:center;min-width:1.4em;
     line-height:1.4;position:absolute;border-radius:.6em;
     box-sizing:border-box;background-color:#f44;
     -webkit-transform:translateX(-50%);
     transform:translateX(-50%);
-    font-family:PingFang SC,Helvetica Neue,Arial,sans-serif
     }
 .cd-candesign:before {
   content: "\e906";
