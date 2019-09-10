@@ -10,8 +10,8 @@
 
 
 
-本地运行demo即可查看更多图例。
-
+本地运行demo或者点击下面官网即可查看更多图例。
+[canico.canmeng.net](https://canico.canmeng.net/)
 
 
 ### Can ICO一套免费开源图标库（For Mini Program）
